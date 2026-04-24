@@ -1,0 +1,20 @@
+{
+  "id": "hook",
+  "title": "Hook",
+  "description": "Hook.",
+  "authors": [
+    {
+    "name": "wawa"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  }
+  "scripts": [
+    "scripts/hook.js"
+  ]
+  "manifest": "https://raw.githubusercontent.com/johanDa9u/hook/main/module.json",
+  "url": "https://github.com/johanDa9u/hook",
+}
