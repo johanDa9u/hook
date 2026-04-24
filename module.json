@@ -16,5 +16,6 @@
     "scripts/hook.js"
   ],
   "manifest": "https://raw.githubusercontent.com/johanDa9u/hook/main/module.json",
-  "url": "https://github.com/johanDa9u/hook"
+  "url": "https://github.com/johanDa9u/hook",
+  "download": "https://github.com/johanDa9u/hook/archive/refs/heads/main.zip"
 }
